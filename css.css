@@ -1,0 +1,102 @@
+body{
+    background:lightblue;
+    color:black;
+}
+
+.foto{
+    position: absolute;
+    left: 3%;
+    top: 18%;
+    border: 2px solid black;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+}
+
+.summary{
+    position: absolute;
+    right: 58%;
+    top: 56%;
+    border: 2px solid black;
+    background-color: green;
+    width: 500px;
+    height: 200px;
+    padding: 15px;
+}
+.hobby{
+    position: absolute;
+    right: 54%;
+    top:18%;
+    border: 2px solid black;
+    background-color: green;
+    width: 250px;
+    height: 200px;
+    padding: 15px;
+}
+.always{
+    position: absolute;
+    right: 30%;
+    top:60%;
+    border: 2px solid black;
+    background-color: green;
+    width: 200px;
+    height: 149px;
+    padding: 50px;
+}
+.funny{
+    position: absolute;
+    right: 1%;
+    top:19%;
+    border: 2px solid black;
+    background-color: green;
+    width: 200px;
+    height: 296px;
+    padding: 50px;
+}
+.TL{
+    position: absolute;
+    right: 30%;
+    top:19%;
+    border: 2px solid black;
+    background-color: green;
+    width: 160px;
+    height: 143px;
+    padding: 50px;
+}
+.links{
+    position: absolute;
+    left: 1%;
+    bottom:0%;
+}
+
+table {
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    color: crimson;
+}
+table, td {
+    border: 1px solid black;
+}
+
+th{
+    color: crimson;
+}
+
+ul{
+    color: crimson;
+}
+.knop{
+    color: green;
+}
+
+.profile{
+    margin: auto;
+    display: block;
+    width: 200px;
+}
